@@ -3,10 +3,10 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer, Desktop App development C#/WPF/Prism . \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;I am also learning Data Science with @SENATOROVAI.\
+- :technologist:Currently working as a Software Engineer, Desktop App development C#/WPF/Prism .
+- :seedling: Love for science and innovation.
+- :heartbeat: Passionate with problem solving and daily routines automation.
+- :writing_hand: I am also learning Data Science with @SENATOROVAI.
 
 
 
@@ -70,10 +70,3 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
 </details>
 
 <hr/>
-
-
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
-</p>
