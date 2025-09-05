@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img src="images/svg/header_en.svg"></img>
 
 ### :space_invader: &nbsp;About Me
 
