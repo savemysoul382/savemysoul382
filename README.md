@@ -8,21 +8,6 @@
 - :heartbeat: Passionate with problem solving and daily routines automation.
 - :writing_hand: I am also learning Data Science with @SENATOROVAI.
 
-[👉СМОТРЕТЬ СКРИНШОТ](https://github.com/user-attachments/assets/dedb743a-0f3d-4e7f-a246-295586bb8ba1)
-
-<a href="https://github.com/user-attachments/assets/dedb743a-0f3d-4e7f-a246-295586bb8ba1" target="_blank">
-  👉СМОТРЕТЬ СКРИНШОТ
-</a>
-
-<a href="https://github.com/user-attachments/assets/dedb743a-0f3d-4e7f-a246-295586bb8ba1" target="_blank">
-  <img src="https://github.com/user-attachments/assets/dedb743a-0f3d-4e7f-a246-295586bb8ba1" alt="Скриншот">
-</a>
-
-<img src="https://example.com/screenshot.png" alt="Скриншот" width="400">
-
-[Открыть в новой вкладке](https://example.com/screenshot.png){:target="_blank"}
-
-
 <p align="center">
   <a href="mailto:serjke88@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
