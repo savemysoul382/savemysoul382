@@ -6,7 +6,7 @@
 - :technologist:Currently working as a Software Engineer, Desktop App development C#/WPF/Prism .
 - :seedling: Love for science and innovation.
 - :heartbeat: Passionate with problem solving and daily routines automation.
-- :writing_hand: I am also learning Data Science with @SENATOROVAI.
+
 
 <p align="center">
   <a href="mailto:serjke88@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
