@@ -61,10 +61,11 @@ blockchain, cryptocurrencies, cryptography, bitcoin, ethereum
   <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7DF1E?style=for-the-badge&logo=TensorFlow&logoColor=orange)
 ![Data Science](https://img.shields.io/badge/Data%20Science-007ACC?style=for-the-badge&logo=data-science&logoColor=white)
 ![Math](https://img.shields.io/badge/Mathematics-E69F00?style=for-the-badge&logo=mathjax&logoColor=white)
-
+-->
 </details>
 
 <hr/>
